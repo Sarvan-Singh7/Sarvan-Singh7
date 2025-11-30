@@ -63,7 +63,7 @@ Daily Java DSA solutions focusing on:
 ---
 
 ## 📈 What Makes Me Stand Out
-- ⭐ 1900+ contributions this year  
+- ⭐ 2000+ contributions this year  
 - ⭐ Strong CS fundamentals  
 - ⭐ Consistent coding habit  
 - ⭐ Real project experience, not just course work  
