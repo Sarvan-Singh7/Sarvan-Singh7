@@ -63,9 +63,9 @@ A responsive React application to test typing speed and accuracy.
 
 ---
 
-## 📈 Problem Solving & Open Source
+## 📈 Problem Solving 
 - **Competitive Programming:** Solved **200+** Data Structures and Algorithms problems across LeetCode and HackerRank, primarily using Java. Dedicated to mastering Arrays, Linked Lists, Trees, and Dynamic Programming.
-- **Open Source:** Active contributor. Recently merged a pull request improving web accessibility for [opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org/pull/183).
+
 
 ---
 
