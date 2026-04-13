@@ -104,12 +104,12 @@ Live typing speed checker with real-time WPM and accuracy. Deployed and live.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarvan-Singh7&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sarvan-Singh7&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvan-Singh7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Sarvan-Singh7&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvan-Singh7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvan-Singh7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
