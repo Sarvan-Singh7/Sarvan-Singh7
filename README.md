@@ -26,7 +26,6 @@ I'm a 2nd-year CS undergrad at **Chitkara University** who builds things instead
 - 🔧 Currently building a **MERN stack College Dispensary Management System** with JWT auth, role-based portals, and REST APIs
 - 🌐 Built a full-stack **URL Shortener** with analytics and a glassmorphism UI
 - ⌨️ Shipped **TypoNinja** — a live typing speed app deployed on Netlify
-- 🧩 Solved **250+ DSA problems** on LeetCode & HackerRank (Java)
 - 🤝 Open source contributor — merged PR at [opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org/pull/183)
 - 📬 Always open to collaborate on interesting projects
 
