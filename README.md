@@ -73,7 +73,7 @@ I'm a 2nd-year CS undergrad at **Chitkara University** who builds things instead
 
 ## 🚀 Projects
 
-### 🏥 College Dispensary Management System *(In Progress)*
+### 🏥 College Dispensary Management System 
 > MERN Stack · JWT Auth · REST APIs · Role-Based Access
 
 Full-stack platform to digitize college dispensary operations. Built for Admin, Staff, and Students with separate portals. Features medicine inventory, student health records, appointment management, and OTP-based password reset.
