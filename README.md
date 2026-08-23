@@ -143,17 +143,15 @@ I'm **Sarvan Singh**, a Full Stack Developer passionate about building scalable 
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sarvan-Singh7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Sarvan-Singh7&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvan-Singh7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sarvan-Singh7&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvan-Singh7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvan-Singh7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
